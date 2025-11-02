@@ -1,0 +1,2 @@
+# mean_xb  std_xb  mean_xt  std_xt  CT_used  ws  ti
+0.5902020910207535 0.2759299040297585 0.0 0.0 0.814 9.0 0.1
